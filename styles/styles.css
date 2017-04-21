@@ -1,0 +1,59 @@
+body, html {
+	padding: 0px;
+	margin: 0px;
+}
+
+
+#stageWrap {
+	height: 500px;
+	width: 100px;
+}
+
+
+.picRow {
+	height: 300px;
+	width: 1000px;
+	background-color: grey;
+	text-align: center;
+	overflow: scroll;
+	position: relative;
+	right: -1900px;
+
+}
+
+.pics {
+	height: 600px;
+	width: 100px;
+	background-color: blue;
+	display: inline-block;
+	margin: 0px 15px;
+
+}
+
+#scrollSpacer {
+	height: 2500px;
+	width: 1px;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+}
+
+
+
+
+#character {
+	width: 206px;
+	height: 278px;
+	background-color: grey;
+
+}
+
+
+
+
+
+
+
+
+
+
